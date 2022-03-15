@@ -1,0 +1,10 @@
+public class{
+
+
+public static void man (String arg[]){
+
+
+System.out.println("Hello"
+
+}
+}
